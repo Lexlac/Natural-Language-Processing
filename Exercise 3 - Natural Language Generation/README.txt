@@ -1,8 +1,11 @@
 NLP Course - CentraleSupélec
 Exercise #3 - NLG
 
-
 Rafaëlle Aygalenq, Sarah Lina Hammoutene, Dora Linda Kocsis, Noémie Quéré
+
+The purpose of this exercise is to design and develop a deep learning model and a training algorithm over a training set for Natural Language Generation, and to evaluate its performance on a test set. 
+The dataset is taken from: http://www.macs.hw.ac.uk/InteractionLab/E2E/
+
 
 Approach 1 : LSTM (word level model)
 The first approach is based on Long Short-term Memory neural networks. We perform preprocessing consisting of delexicalizing sentences, splitting data and postprocessing consisting of the opposite operations (joining and relexicalization). 
