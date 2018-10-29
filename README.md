@@ -18,5 +18,5 @@ Couse website: http://nlpcourse.europe.naverlabs.com/
 
 ## About the course assignments 
 - 1/ Skip-gram with negative-sampling
-- 2/ Classifier to predict aspect-based polarities of opinions in sentences
+- 2/ Classifier to predict aspect-based polarities of opinions in sentences (Aspect Based Sentiment Analysis System)
 - 3/ Natural Language Generation
