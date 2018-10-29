@@ -17,6 +17,6 @@ Couse website: http://nlpcourse.europe.naverlabs.com/
 - Machine Reading
 
 ## About the course assignments 
-1/ Skip-gram with negative-sampling
-2/ Classifier to predict aspect-based polarities of opinions in sentences
-3/ Natural Language Generation
+- 1/ Skip-gram with negative-sampling
+- 2/ Classifier to predict aspect-based polarities of opinions in sentences
+- 3/ Natural Language Generation
